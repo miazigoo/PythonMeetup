@@ -1,0 +1,4 @@
+Django~=4.2.1
+environs~=9.5.0
+aiogram~=2.25.1
+asgiref~=3.6.0
